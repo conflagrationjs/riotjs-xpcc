@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/riotjs.rb",
+     "riotjs-xpcc.gemspec",
      "xpcomcore/doc/files.html",
      "xpcomcore/doc/index.html",
      "xpcomcore/doc/symbols/_global_.html",
