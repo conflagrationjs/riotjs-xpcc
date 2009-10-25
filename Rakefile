@@ -5,12 +5,12 @@ require 'pathname'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "riot-js"
+    gem.name = "riotjs-xpcc"
     gem.summary = %Q{JS version of the Riot testing framework}
     gem.description = %Q{JS version of the Riot testing framework}
-    gem.email = "gabriel.gironda@gmail.com"
-    gem.homepage = "http://github.com/gabrielg/riot-js"
-    gem.authors = ["ggironda"]
+    gem.email = "info@conflagrationjs.org"
+    gem.homepage = "http://www.conflagrationjs.org/"
+    gem.authors = ["alexyoung", "gabrielg"]
     
     gem.add_dependency "xpcomcore-rubygem"
     gem.add_development_dependency "jsdoc-toolkit"
